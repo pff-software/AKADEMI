@@ -1,4 +1,4 @@
-package simdikizamanıgörüntüle;
+package simdikizamanıgoruntule;
 
 public class SimdikiZamaniGoruntule {
 
