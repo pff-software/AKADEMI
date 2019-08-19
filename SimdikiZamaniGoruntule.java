@@ -17,6 +17,7 @@ public class SimdikiZamaniGoruntule {
         System.out.println("Saat: " + Sa+ ":" + Dk + ":" + Sn + " GMT");
         //Eğer Tr saati istiyorsanız: Sa değişkeninin değerini 3 arttırın
         
+        //Anlatım İçin YouTube Kanalımıza Gidebilirsiniz: PFF SOFTWARE
     }
     
 }
